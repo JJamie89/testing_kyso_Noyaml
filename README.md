@@ -1,1 +1,2 @@
-# testing_kyso_Noyaml
+# testing_kyso_NoYaml
+List of notebook with not yaml file
